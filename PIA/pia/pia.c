@@ -4,8 +4,6 @@
 #include <assert.h>
 #include <math.h>
 
-#define ESPACE 1024
-
 typedef struct calificacionParcial{
 	unsigned int alumnos_reprobados;
 	int *califparcialA;
